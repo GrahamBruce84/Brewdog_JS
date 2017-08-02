@@ -1,0 +1,30 @@
+body{
+  font-family: herculanum;
+  background-image: url("https://www.brewdog.com/images/cms/original/1439813037BrewDogbacksUKMinimumAlcoholPricing.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1{
+  font-size: 40px;
+  border-bottom: solid black;
+  display: inline-block;
+}
+
+h2, h3{
+  border-bottom: solid black;
+  display: inline-flex;
+  margin-left: 0px;
+  margin-right: 70%;
+}
+
+ul{
+  list-style-type: none;
+  font-size: 30px;
+}
+
+img{
+  height: 400px;
+  border: 20px;
+  margin-bottom: 55px;
+}
